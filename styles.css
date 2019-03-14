@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 5px;
+    }
+
+body {font-family: 'Times New Roman', Times, serif; 
+        text-align: center;
+        font-size:12px;
+        width: 900px;
+    }
+
+/* User Box Headers */
+h2 {
+    margin: auto;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+/* Boxes */
+div {
+    width: 40%;
+    margin: auto;
+    border: 3px solid green;
+}
+
+ul {
+    margin: auto;
+    text-align: left;
+    list-style-type: none;
+}
